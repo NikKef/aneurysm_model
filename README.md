@@ -5,7 +5,5 @@ title: AneurysmRuptureModel,
 sdk: gradio, 
 sdk_version: 5.36.2
 
-# Aneurysm Rupture Risk Prediction using Machine Learning
-
 > 🔬 AI Internship Project @ Sim4Flow Ltd. | Summer 2025  
 > 👨‍💻 Developed by Nikolas Kefalonitis
